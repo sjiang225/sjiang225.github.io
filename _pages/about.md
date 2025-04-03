@@ -45,7 +45,7 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# 🎓 Educations
 - *2021.09 - Present*, New Jersey Institute of Technology, Ph.D. in Computer Science
 - *2019.09 - 2021.06*, Stevens Institute of Technology, M.Sc. in Business Intelligence & Analytics
 - *2015.09 - 2019.06*, Shanghai Normal University, B.Eng. in Electric Engineering & Automation
