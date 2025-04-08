@@ -23,19 +23,25 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICAIF 2023</div><img src='images/mutual_fund_graph.jpg' alt="icaif" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[The Network of Mutual Funds: A Dynamic Heterogeneous Graph Neural Network for Estimating Mutual Funds Performance](https://dl.acm.org/doi/10.1145/3604237.3626910)
-
-**Siqi Jiang**, Ajim Uddin, Zhi Wei, Dantong Yu
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- ICAIF Paper -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="position: relative; margin-right: 20px;">
+    <div style="position: absolute; top: 5px; left: 5px; background-color: #003366; color: white; padding: 2px 6px; font-weight: bold; border-radius: 3px;">ICAIF</div>
+    <img src="images/icaif_mutualfund.png" alt="ICAIF Mutual Fund GNN" width="220px" style="border-radius: 5px;">
+  </div>
+  <div>
+    <p style="margin: 0; font-size: 17px;"><b>The Network of Mutual Funds: A Dynamic Heterogeneous Graph Neural Network for Estimating Mutual Funds Performance</b></p>
+    <p style="margin: 0;">Siqi Jiang, et al.  
+      <br><i>The 4th ACM International Conference on AI in Finance (ICAIF)</i>, 2023.
+      <br>
+      <a href="https://dl.acm.org/doi/10.1145/3604237.3626910" target="_blank"><button>PDF</button></a>
+      <span style="color: red; font-style: italic; margin-left: 10px;">Published</span>
+    </p>
+  </div>
 </div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
 
 
 # 🎓 Educations
@@ -43,9 +49,6 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 - *2019.09 - 2021.06*, Stevens Institute of Technology, M.Sc. in Business Intelligence & Analytics
 - *2015.09 - 2019.06*, Shanghai Normal University, B.Eng. in Electric Engineering & Automation
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
