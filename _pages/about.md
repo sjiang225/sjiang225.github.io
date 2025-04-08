@@ -78,4 +78,9 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 
 
 # Service
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Conference reviewing*: IEEE International Conference on Big Data, ACM International Conference on AI in Finance, IEEE International Conference on Systems, Man, and Cybernetics, Wireless and Optical Communications Conference
+- *Journal reviewing*: Briefings in Bioinformatics, IEEE Internet of Things Journal
+
+
+
+
