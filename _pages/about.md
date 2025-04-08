@@ -21,9 +21,6 @@ I’m a 4th-year Ph.D. student in the Department of Computer Science at the New 
 
 Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Stevens Institute of Technology and received dual bachelor’s degrees in Electrical Engineering and Finance from Shanghai Normal University and East China University of Science and Technology.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICAIF 2023</div><img src='images/mutual_fund_graph.jpg' alt="icaif" width="100%"></div></div>
@@ -40,9 +37,6 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 🎓 Educations
 - *2021.09 - Present*, New Jersey Institute of Technology, Ph.D. in Computer Science
