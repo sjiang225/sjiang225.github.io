@@ -26,7 +26,7 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 # Publications 
 <!-- ICAIF Paper -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="position: relative; margin-right: 20px; width: 240px; height: 135px; overflow: hidden; border-radius: 5px;">
+  <div style="position: relative; margin-right: 20px; width: 240px; height: 135px; overflow: hidden; border-radius: 5px; flex-shrink: 0;">
     <div style="position: absolute; top: 5px; left: 5px; background-color: #003366; color: white; padding: 2px 6px; font-weight: bold; border-radius: 3px;">ICAIF</div>
     <img src="images/mutual_fund_graph.jpg" alt="ICAIF Mutual Fund GNN" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
