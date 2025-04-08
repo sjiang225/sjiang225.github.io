@@ -39,7 +39,10 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
     <div class="author"><b>Siqi Jiang</b>, Ajim Uddin, Zhi Wei, Dantong Yu.</div>
     <div class="periodical"><i>The 4th ACM International Conference on AI in Finance (ICAIF)</i>, 2023.</div>
     <div class="links">
-      <a href="https://dl.acm.org/doi/10.1145/3604237.3626910" target="_blank" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      <a href="https://dl.acm.org/doi/10.1145/3604237.3626910" target="_blank" class="btn btn-outline-secondary btn-xs"
+   style="padding: 2px 10px; font-size: 13px; border-radius: 5px; font-weight: 500;">
+  PDF
+</a>
     </div>
   </div>
 </div>
@@ -59,7 +62,10 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
     <div class="author">Xiang Lin<sup>*</sup>, <b>Siqi Jiang</b><sup>*</sup>, Le Gao<sup>*</sup>, Zhi Wei, Junwen Wang.</div>
     <div class="periodical"><i>Briefings in Bioinformatics (BIB)</i>, 2024.</div>
     <div class="links">
-      <a href="https://academic.oup.com/bib/article/25/6/bbae492/7814652" target="_blank" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      <a href="https://academic.oup.com/bib/article/25/6/bbae492/7814652" target="_blank" class="btn btn-outline-secondary btn-xs"
+   style="padding: 2px 10px; font-size: 13px; border-radius: 5px; font-weight: 500;">
+  PDF
+</a>
     </div>
   </div>
 </div>
