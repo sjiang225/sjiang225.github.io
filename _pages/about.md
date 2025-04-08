@@ -25,35 +25,38 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 
 # Publications 
 <!-- ICAIF Paper -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="position: relative; margin-right: 20px; width: 240px; height: 135px; overflow: hidden; border-radius: 5px;">
-    <div style="position: absolute; top: 5px; left: 5px; background-color: #003366; color: white; padding: 2px 6px; font-weight: bold; border-radius: 3px;">ICAIF</div>
-    <img src="images/mutual_fund_graph.jpg" alt="ICAIF Mutual Fund GNN" style="width: 100%; height: 100%; object-fit: cover;">
+<div class="row pub-row" style="margin-bottom: 30px;">
+  <div class="col-sm-3 abbr" style="position: relative;">
+    <img src="images/mutual_fund_graph.jpg" class="img-fluid" alt="ICAIF Mutual Fund GNN">
+    <abbr class="badge" style="position: absolute; top: 5px; left: 5px; background-color: #003366;">ICAIF</abbr>
   </div>
-  <div>
-    <p style="margin: 0; font-size: 17px;"><b>The Network of Mutual Funds: A Dynamic Heterogeneous Graph Neural Network for Estimating Mutual Funds Performance</b></p>
-    <p style="margin: 0;"><b>Siqi Jiang</b>, Ajim Uddin, Zhi Wei, Dantong Yu.<br>
-    <i>The 4th ACM International Conference on AI in Finance (ICAIF)</i>, 2023.<br>
-    <a href="https://dl.acm.org/doi/10.1145/3604237.3626910" target="_blank"><button class="pdf-button">PDF</button></a>
-    </p>
+  <div class="col-sm-9">
+    <div class="title">
+      <b>The Network of Mutual Funds: A Dynamic Heterogeneous Graph Neural Network for Estimating Mutual Funds Performance</b>
+    </div>
+    <div class="author"><b>Siqi Jiang</b>, Ajim Uddin, Zhi Wei, Dantong Yu.</div>
+    <div class="periodical"><i>The 4th ACM International Conference on AI in Finance (ICAIF)</i>, 2023.</div>
+    <div class="links">
+      <a href="https://dl.acm.org/doi/10.1145/3604237.3626910" target="_blank" class="btn btn-sm z-depth-0" role="button">PDF</a>
+    </div>
   </div>
 </div>
 
-
 <!-- BIB Paper -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="position: relative; margin-right: 20px; width: 240px; height: 135px; overflow: hidden; border-radius: 5px;">
-    <div style="position: absolute; top: 5px; left: 5px; background-color: #003366; color: white; padding: 2px 6px; font-weight: bold; border-radius: 3px;">BIB</div>
-    <img src="images/bib.png" alt="BIB MultiSC" style="width: 100%; height: 100%; object-fit: cover;">
+<div class="row pub-row" style="margin-bottom: 30px;">
+  <div class="col-sm-3 abbr" style="position: relative;">
+    <img src="images/bib.png" class="img-fluid" alt="BIB MultiSC">
+    <abbr class="badge" style="position: absolute; top: 5px; left: 5px; background-color: #003366;">BIB</abbr>
   </div>
-  <div>
-    <p style="margin: 0; font-size: 17px;"><b>MultiSC: A Deep Learning Pipeline for Analyzing Multiomics Single Cell Data</b></p>
-    <p style="margin: 0;">
-      Xiang Lin<sup>*</sup>, <b>Siqi Jiang</b><sup>*</sup>, Le Gao<sup>*</sup>, Zhi Wei, Junwen Wang.  
-      <br><i>Briefings in Bioinformatics (BIB)</i>, 2024.
-      <br>
-      <a href="https://academic.oup.com/bib/article/25/6/bbae492/7814652" target="_blank"><button class="pdf-button">PDF</button></a>
-    </p>
+  <div class="col-sm-9">
+    <div class="title">
+      <b>MultiSC: A Deep Learning Pipeline for Analyzing Multiomics Single Cell Data</b>
+    </div>
+    <div class="author">Xiang Lin<sup>*</sup>, <b>Siqi Jiang</b><sup>*</sup>, Le Gao<sup>*</sup>, Zhi Wei, Junwen Wang.</div>
+    <div class="periodical"><i>Briefings in Bioinformatics (BIB)</i>, 2024.</div>
+    <div class="links">
+      <a href="https://academic.oup.com/bib/article/25/6/bbae492/7814652" target="_blank" class="btn btn-sm z-depth-0" role="button">PDF</a>
+    </div>
   </div>
 </div>
 
