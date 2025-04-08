@@ -27,8 +27,10 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 <!-- ICAIF Paper -->
 <div class="row pub-row" style="margin-bottom: 30px;">
   <div class="col-sm-3 abbr" style="position: relative;">
-    <img src="images/mutual_fund_graph.jpg" class="img-fluid" alt="ICAIF Mutual Fund GNN">
-    <abbr class="badge" style="position: absolute; top: 5px; left: 5px; background-color: #003366;">ICAIF</abbr>
+    <div style="width: 100%; aspect-ratio: 16/9; overflow: hidden; border-radius: 6px; position: relative;">
+      <img src="images/mutual_fund_graph.jpg" alt="ICAIF Poster" style="width: 100%; height: 100%; object-fit: cover;">
+      <abbr class="badge" style="position: absolute; top: 5px; left: 5px; background-color: #003366;">ICAIF</abbr>
+    </div>
   </div>
   <div class="col-sm-9">
     <div class="title">
@@ -45,8 +47,10 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 <!-- BIB Paper -->
 <div class="row pub-row" style="margin-bottom: 30px;">
   <div class="col-sm-3 abbr" style="position: relative;">
-    <img src="images/bib.png" class="img-fluid" alt="BIB MultiSC">
-    <abbr class="badge" style="position: absolute; top: 5px; left: 5px; background-color: #003366;">BIB</abbr>
+    <div style="width: 100%; aspect-ratio: 16/9; overflow: hidden; border-radius: 6px; position: relative;">
+      <img src="images/bib.png" alt="BIB MultiSC" style="width: 100%; height: 100%; object-fit: cover;">
+      <abbr class="badge" style="position: absolute; top: 5px; left: 5px; background-color: #003366;">BIB</abbr>
+    </div>
   </div>
   <div class="col-sm-9">
     <div class="title">
