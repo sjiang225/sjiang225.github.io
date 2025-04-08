@@ -16,13 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# About Me
 
 I’m a 4th-year Ph.D. student in the Department of Computer Science at the New Jersey Institute of Technology (NJIT), advised by [**Prof. Zhi Wei**](https://web.njit.edu/~zhiwei/) and [**Prof. Dantong Yu**](https://sites.google.com/site/dantongyu/home). My research centers on large language models (LLMs), foundation models, graph-based learning, and time-series analysis, with applications in financial forecasting, biomedical modeling, and scientific discovery. I am particularly interested in building scalable, interpretable AI systems that perform reliably in high-stakes, real-world scenarios.
 
 Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Stevens Institute of Technology and received dual bachelor’s degrees in Electrical Engineering and Finance from Shanghai Normal University and East China University of Science and Technology.
 
 
-# 📝 Publications 
+# Publications 
 <!-- ICAIF Paper -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="position: relative; margin-right: 20px;">
@@ -57,11 +58,11 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 </div>
 
 
-# 🎓 Educations
+# Educations
 - *2021.09 - Present*, New Jersey Institute of Technology, Ph.D. in Computer Science
 - *2019.09 - 2021.06*, Stevens Institute of Technology, M.Sc. in Business Intelligence & Analytics
 - *2015.09 - 2019.06*, Shanghai Normal University, B.Eng. in Electric Engineering & Automation
 
 
-# 💻 Internships
+# Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
