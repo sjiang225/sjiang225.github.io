@@ -27,7 +27,7 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="position: relative; margin-right: 20px;">
     <div style="position: absolute; top: 5px; left: 5px; background-color: #003366; color: white; padding: 2px 6px; font-weight: bold; border-radius: 3px;">ICAIF</div>
-    <img src="images/icaif_mutualfund.png" alt="ICAIF Mutual Fund GNN" width="220px" style="border-radius: 5px;">
+    <img src="images/mutual_fund_graph.jpg" alt="ICAIF Mutual Fund GNN" width="220px" style="border-radius: 5px;">
   </div>
   <div>
     <p style="margin: 0; font-size: 17px;"><b>The Network of Mutual Funds: A Dynamic Heterogeneous Graph Neural Network for Estimating Mutual Funds Performance</b></p>
