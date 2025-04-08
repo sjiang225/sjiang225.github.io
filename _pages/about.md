@@ -31,17 +31,30 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
   </div>
   <div>
     <p style="margin: 0; font-size: 17px;"><b>The Network of Mutual Funds: A Dynamic Heterogeneous Graph Neural Network for Estimating Mutual Funds Performance</b></p>
-    <p style="margin: 0;">Siqi Jiang, et al.  
+    <p style="margin: 0;"> <b>Siqi Jiang</b>, Ajim Uddin, Zhi Wei, Dantong Yu.  
       <br><i>The 4th ACM International Conference on AI in Finance (ICAIF)</i>, 2023.
       <br>
       <a href="https://dl.acm.org/doi/10.1145/3604237.3626910" target="_blank"><button>PDF</button></a>
-      <span style="color: red; font-style: italic; margin-left: 10px;">Published</span>
     </p>
   </div>
 </div>
 
 
-
+<!-- BIB Paper -->
+<div style="display: flex; align-items: flex-start;">
+  <div style="position: relative; margin-right: 20px;">
+    <div style="position: absolute; top: 5px; left: 5px; background-color: #003366; color: white; padding: 2px 6px; font-weight: bold; border-radius: 3px;">BIB</div>
+    <img src="images/bib_multisc.png" alt="BIB MultiSC" width="220px" style="border-radius: 5px;">
+  </div>
+  <div>
+    <p style="margin: 0; font-size: 17px;"><b>MultiSC: A Deep Learning Pipeline for Analyzing Multiomics Single Cell Data</b></p>
+    <p style="margin: 0;">Xiang Lin, <b>Siqi Jiang</b>, Le Gao, Zhi Wei, Junwen Wang.  
+      <br><i>Briefings in Bioinformatics (BIB)</i>, 2024.
+      <br>
+      <a href="https://academic.oup.com/bib/article/25/6/bbae492/7814652" target="_blank"><button>PDF</button></a>
+    </p>
+  </div>
+</div>
 
 
 # 🎓 Educations
