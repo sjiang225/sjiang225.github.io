@@ -45,7 +45,7 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 <div style="display: flex; align-items: flex-start;">
   <div style="position: relative; margin-right: 20px;">
     <div style="position: absolute; top: 5px; left: 5px; background-color: #003366; color: white; padding: 2px 6px; font-weight: bold; border-radius: 3px;">BIB</div>
-    <img src="images/bib.png" alt="BIB MultiSC" style="width: 240px; height: 135px; object-fit: cover; border-radius: 5px;">
+    <img src="images/bib.png" alt="BIB MultiSC" style="width: 240px !important; height: 135px !important; object-fit: cover; border-radius: 5px;">
   </div>
   <div>
     <p style="margin: 0; font-size: 17px;"><b>MultiSC: A Deep Learning Pipeline for Analyzing Multiomics Single Cell Data</b></p>
