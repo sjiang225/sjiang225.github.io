@@ -48,7 +48,7 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
   </div>
   <div>
     <p style="margin: 0; font-size: 17px;"><b>MultiSC: A Deep Learning Pipeline for Analyzing Multiomics Single Cell Data</b></p>
-    <p style="margin: 0;">Xiang Lin, <b>Siqi Jiang</b>, Le Gao, Zhi Wei, Junwen Wang.  
+    <p style="margin: 0;">Xiang Lin<sup>*</sup>, <b>Siqi Jiang</b><sup>*</sup>, Le Gao<sup>*</sup>, Zhi Wei, Junwen Wang.  
       <br><i>Briefings in Bioinformatics (BIB)</i>, 2024.
       <br>
       <a href="https://academic.oup.com/bib/article/25/6/bbae492/7814652" target="_blank"><button>PDF</button></a>
