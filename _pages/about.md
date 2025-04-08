@@ -22,7 +22,7 @@ I’m a 4th-year Ph.D. student in the Department of Computer Science at the New 
 
 Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Stevens Institute of Technology and received dual bachelor’s degrees in Electrical Engineering and Finance from Shanghai Normal University and East China University of Science and Technology.
 
-
+<span class='anchor' id='publications'></span>
 # Publications 
 <!-- ICAIF Paper -->
 <div class="row pub-row" style="margin-bottom: 30px;">
@@ -70,13 +70,13 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
   </div>
 </div>
 
-
+<span class='anchor' id='educations'></span>
 # Educations
 - *2021.09 - Present*, New Jersey Institute of Technology, Ph.D. in Computer Science
 - *2019.09 - 2021.06*, Stevens Institute of Technology, M.Sc. in Business Intelligence & Analytics
 - *2015.09 - 2019.06*, Shanghai Normal University, B.Eng. in Electric Engineering & Automation
 
-
+<span class='anchor' id='service'></span>
 # Service
 - *Conference reviewing*: IEEE International Conference on Big Data, ACM International Conference on AI in Finance, IEEE International Conference on Systems, Man, and Cybernetics, Wireless and Optical Communications Conference
 - *Journal reviewing*: Briefings in Bioinformatics, IEEE Internet of Things Journal
