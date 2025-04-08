@@ -48,7 +48,7 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 <div class="row pub-row" style="margin-bottom: 30px;">
   <div class="col-sm-3 abbr" style="position: relative;">
     <div style="width: 100%; aspect-ratio: 16/9; overflow: hidden; border-radius: 6px; position: relative;">
-      <img src="images/bib.png" alt="BIB MultiSC" style="width: 100%; height: 100%; object-fit: cover;">
+      <img src="images/bib_multisc.png" alt="BIB MultiSC" style="width: 100%; height: 100%; object-fit: cover;">
       <abbr class="badge" style="position: absolute; top: 5px; left: 5px; background-color: #003366;">BIB</abbr>
     </div>
   </div>
