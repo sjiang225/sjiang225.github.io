@@ -5,12 +5,17 @@ main:
 
   #- title: "News"
   # url: "/#-news"
+  - title: "News"
+    url: "/#news"
+
+  - title: "Research"
+    url: "/#research"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#education"
 
   - title: "Service"
-    url: "/#-service"
+    url: "/#service"

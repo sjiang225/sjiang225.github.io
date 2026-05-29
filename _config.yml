@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Siqi Jiang"
-description              : "Ph.D. candidate at NJIT. Research interests include graph learning, LLMs, and financial forecasting. "
+description              : "Ph.D. candidate at NJIT working on foundation models, graph learning, and AI for biomedical and financial forecasting."
+url                      : "https://sjiang225.github.io"
 repository               : "sjiang225/sjiang225.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Siqi Jiang"
-  avatar           : "images/IMG_5353.PNG"
-  bio              : "New Jersey Institute of Technology"
+  avatar           : "images/siqi-jiang-profile.jpg"
+  bio              : "Ph.D. Candidate, Computer Science, NJIT"
   location         : "New Jersey, United States"
   employer         :
   pubmed           : 
