@@ -108,6 +108,68 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.project-feature {
+    display: grid;
+    gap: 1rem;
+    margin: 1.25rem 0 2rem;
+    padding: 1rem;
+    border: 1px solid #d8e4e7;
+    border-radius: 6px;
+    background: #fff;
+}
+
+.project-feature__media {
+    img {
+        display: block;
+        width: 100%;
+        border-radius: 4px;
+        border: 1px solid #e5e7eb;
+    }
+}
+
+.project-kicker {
+    margin: 0 0 .25rem;
+    color: #0f766e;
+    font-size: .78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.project-feature__body {
+    h3 {
+        margin: 0 0 .45rem;
+        font-size: 1.08rem;
+        line-height: 1.35;
+    }
+
+    p {
+        margin: .45rem 0;
+    }
+}
+
+.project-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+
+    a {
+        display: inline-block;
+        padding: .24rem .65rem;
+        border: 1px solid #b6c2d1;
+        border-radius: 4px;
+        color: #1f4e79;
+        font-size: .86rem;
+        font-weight: 700;
+        text-decoration: none;
+    }
+
+    a:hover {
+        border-color: #1f4e79;
+        background: #eef6ff;
+        text-decoration: none;
+    }
+}
+
 .pub-list {
     display: grid;
     gap: 1rem;
@@ -183,6 +245,11 @@ h1:before, .anchor:before {
 }
 
 @include breakpoint($medium) {
+    .project-feature {
+        grid-template-columns: minmax(0, 1.1fr) minmax(16rem, .9fr);
+        align-items: center;
+    }
+
     .pub-item {
         grid-template-columns: 8rem minmax(0, 1fr);
         gap: 1rem;
