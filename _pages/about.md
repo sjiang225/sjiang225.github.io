@@ -38,6 +38,28 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 - Time-series modeling and financial forecasting
 - Multi-omics and single-cell data analysis
 
+<span class='anchor' id='projects'></span>
+# Hackathon Project
+
+<article class="project-feature">
+  <div class="project-feature__media">
+    <img src="images/women-health-triage.png" alt="Architecture diagram for the AI-powered OB/GYN triage agent">
+  </div>
+  <div class="project-feature__body">
+    <p class="project-kicker">AI for Women's Health</p>
+    <h3>Right Care, Right Timing: AI-Powered Subspecialty Triage for Women's Health</h3>
+    <p>
+      A hackathon prototype for OB/GYN triage that combines multi-turn intake,
+      RAG-supported clinical reasoning, urgency classification, subspecialty
+      routing, and schedule-aware appointment matching.
+    </p>
+    <p class="project-links">
+      <a href="https://github.com/sjiang225/sjiang225.github.io/tree/main/projects/women-health-triage">Code</a>
+      <a href="https://github.com/sjiang225/sjiang225.github.io/blob/main/projects/women-health-triage/README.md">README</a>
+    </p>
+  </div>
+</article>
+
 <span class='anchor' id='-publications'></span>
 # Selected Publications & Preprints
 
@@ -131,4 +153,3 @@ Prior to NJIT, I earned my M.Sc. in Business Intelligence & Analytics from Steve
 # Academic Service
 - *Conference reviewing*: IEEE International Conference on Big Data, ACM International Conference on AI in Finance, IEEE International Conference on Systems, Man, and Cybernetics, Wireless and Optical Communications Conference
 - *Journal reviewing*: Briefings in Bioinformatics, IEEE Internet of Things Journal
-

@@ -1,0 +1,8 @@
+.DS_Store
+.env
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+appointments.sqlite3
+uploaded_schedule.xlsx
+obgyn_index/
